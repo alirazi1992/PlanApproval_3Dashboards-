@@ -122,6 +122,8 @@ src/
 │   └── utils/cn.ts
 └── App.tsx              # Main app with routing
 
+```
+
 ## 🔑 Key Concepts
 
 ### Access Control (RBAC)
